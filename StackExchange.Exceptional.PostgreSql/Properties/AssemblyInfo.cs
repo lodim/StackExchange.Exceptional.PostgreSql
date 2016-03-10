@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("StackExchange.Exceptional.PostgreSql")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Simple PostgreSql error logging handler for ASP.NET")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("StackExchange.Exceptional.PostgreSql")]
-[assembly: AssemblyCopyright("Copyright © Mihai Bogdan Eugen 2016")]
+[assembly: AssemblyCompany("MBE Tech")]
+[assembly: AssemblyProduct("StackExchange.Exceptional")]
+[assembly: AssemblyCopyright("Copyright Mihai Bogdan Eugen © 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
