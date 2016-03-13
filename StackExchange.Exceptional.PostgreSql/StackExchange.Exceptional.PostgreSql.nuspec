@@ -13,7 +13,7 @@
 		<language>en-US</language>
 		<description>PostgreSql storage provider for StackExchange.Exceptional</description>
 		<summary>Enabled storing StackExchange.Exceptional errors to a PostgreSql database.</summary>
-		<copyright>Copyright 2016</copyright>
+		<copyright>Copyright &#169; 2016 Mihai Bogdan Eugen</copyright>
 		<dependencies>
 			<dependency id="Dapper" version="1.42.0" />
 			<dependency id="Npgsql" version="3.0.5" />
