@@ -5,7 +5,7 @@
 		<title>StackExchange.Exceptional.PostgreSql</title>
 		<authors>Mihai Bogdan Eugen</authors>
 		<owners>Mihai Bogdan Eugen</owners>
-		<version>1.0.0</version>
+		<version>1.0.1</version>
 		<projectUrl>https://github.com/MihaiBogdanEugen/StackExchange.Exceptional.PostgreSql</projectUrl>
 		<licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
 		<tags>PostgreSql Exception Handler Errors Stack Exchange Exceptional</tags>
