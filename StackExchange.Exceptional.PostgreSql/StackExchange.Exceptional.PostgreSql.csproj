@@ -61,7 +61,7 @@
     <Compile Include="Sql.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="DbScripts\PostgreSqlErrors.sql" />
+    <None Include="DbScripts\PostgreSqlErrors.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
